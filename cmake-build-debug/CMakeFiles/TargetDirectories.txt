@@ -1,0 +1,3 @@
+C:/SRC/Exersice/Cache_Coherence_Simulator/cmake-build-debug/CMakeFiles/Cache_Coherence_Simulator.dir
+C:/SRC/Exersice/Cache_Coherence_Simulator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/SRC/Exersice/Cache_Coherence_Simulator/cmake-build-debug/CMakeFiles/rebuild_cache.dir

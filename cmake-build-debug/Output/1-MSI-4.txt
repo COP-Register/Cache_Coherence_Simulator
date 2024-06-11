@@ -1,0 +1,8 @@
+End results:
+Hit-Count: 3
+Miss-Count: 29
+Hit-Rate: 9.375%
+Calls of invalidation broadcast: 7
+Invalidations: 14
+Accesses to private data: 0
+Accesses to public data: 3
